@@ -21,5 +21,5 @@ I'm always open to collaboration, feedback, or just a chat!
 - 📬 Email: sakuragi.yu@gmail.com
 
 ---
-
+![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusakuragi14&theme=ambient_gradient&show_icons=true)
 Thanks for visiting!
