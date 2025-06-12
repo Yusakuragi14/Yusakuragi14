@@ -1,16 +1,25 @@
 ## Hi, I am Yu Sakuragi 👋
 
-<!--
-**Yusakuragi14/Yusakuragi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** passionate about building clean, responsive, and user-focused applications. With a focus on JavaScript, React, and backend technologies such as Node.js and PostgreSQL, I enjoy bringing ideas to life on the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning: TypeScript, Next.js & advanced backend architectures  
+- 🧠 Background in: sales  
+- 🎯 Interests: Web performance, user experience, and meaningful UI  
+- 🛠️ Tech stack:  
+  `HTML` `CSS` `JavaScript` `React` `Node.js` `Ruby` `PostgreSQL` `Figma` `Rails` `Git` `REST APIs`
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaboration, feedback, or just a chat!
+ 
+- 💼 [LinkedIn](https://linkedin.com/in/yu-sakuragi)  
+- 📬 Email: sakuragi.yu@gmail.com
+
+---
+
+Thanks for visiting!
